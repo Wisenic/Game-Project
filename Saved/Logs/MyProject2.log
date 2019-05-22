@@ -775,3 +775,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.21-23.40.43:402][642]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
 [2019.05.21-23.40.53:251][584]LogRenderer: Reallocating scene render targets to support 1288x772 Format 10 NumSamples 1 (Frame:1).
 [2019.05.21-23.44.31:539][580]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.05.22-00.23.58:104][730]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2019.05.22-00.23.58:990][822]Cmd: EDIT COPY
+[2019.05.22-00.23.59:546][887]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.22-00.24.00:015][940]Cmd: EDIT PASTE
+[2019.05.22-00.24.01:194][ 75]Cmd: EDIT COPY
+[2019.05.22-00.24.01:779][144]LogEditorViewport: Clicking on Actor (context menu): Enemy_C (Enemy)
+[2019.05.22-00.24.01:806][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.24.04:591][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.22-00.24.11:308][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.24.27:904][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.24.27:994][173]LogActorFactory: Actor Factory created Cube
+[2019.05.22-00.24.29:021][293]LogActorFactory: Actor Factory created Cube
+[2019.05.22-00.24.30:499][447]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.05.22-00.24.31:591][570]Cmd: DELETE
+[2019.05.22-00.24.31:591][570]Cmd: ACTOR DELETE
+[2019.05.22-00.24.31:597][570]LogEditorActor: Deleted Actor: Actor
+[2019.05.22-00.24.31:633][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.05.22-00.24.31:633][570]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.05.22-00.24.32:731][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.24.32:920][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.24.33:305][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.24.35:294][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.24.35:333][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.05.22-00.24.35:511][  6]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMapA542BE5F472004A84C02DAB4AB366CC3.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.05.22-00.24.35:793][  6]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMap_BuiltDataC6BF90604A8E68E2F24043931B382FC7.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
