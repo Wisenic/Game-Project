@@ -800,3 +800,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.22-00.24.35:333][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2019.05.22-00.24.35:511][  6]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMapA542BE5F472004A84C02DAB4AB366CC3.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2019.05.22-00.24.35:793][  6]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMap_BuiltDataC6BF90604A8E68E2F24043931B382FC7.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.05.22-00.25.51:491][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.22-00.25.52:477][470]Cmd: DELETE
+[2019.05.22-00.25.52:477][470]Cmd: ACTOR DELETE
+[2019.05.22-00.25.52:478][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.22-00.25.52:511][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.05.22-00.25.52:512][470]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.05.22-00.25.56:287][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.25.57:948][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.25.57:984][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.05.22-00.25.58:136][769]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMapF2DCA27E4A646ED938F498A67DC7CA60.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.05.22-00.25.58:335][769]LogSavePackage: Moving '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Saved/SideScrollerExampleMap_BuiltData62C33C72494026C64759E4AB55C08E71.tmp' to '../../../../../Users/Nicholas/Documents/Unreal Projects/MyProject2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
