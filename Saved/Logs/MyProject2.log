@@ -1019,3 +1019,130 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.25-13.12.37:227][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2019.06.25-13.12.37:673][654]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Saved/SideScrollerExampleMap030974AB4A3EBF9008AD21966ADC34A5.tmp' to '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2019.06.25-13.12.38:092][654]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Saved/SideScrollerExampleMap_BuiltData94119F304BD6B0F765AEE2B1D7714826.tmp' to '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.06.25-13.22.37:636][572]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.06.25-13.22.37:636][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.076
+[2019.06.25-13.22.37:639][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2019.06.25-13.22.37:676][572]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2019.06.25-13.22.37:676][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.06.25-13.22.37:822][572]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Saved/SideScrollerCharacter_Auto58FBE40D84C76834588E554B354C8CA30.tmp' to '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto5.uasset'
+[2019.06.25-13.22.37:824][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Projectile] ([1] browsable assets)...
+[2019.06.25-13.22.37:856][572]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Projectile.Projectile]
+[2019.06.25-13.22.37:856][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Projectile]
+[2019.06.25-13.22.37:908][572]LogSavePackage: Moving '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Saved/Projectile_Auto5CE6FAADE4863273A572DD7AB592DB2CE.tmp' to '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Projectile_Auto5.uasset'
+[2019.06.25-13.22.37:909][572]LogFileHelpers: Auto-saving content packages took 0.271
+[2019.06.25-13.32.54:809][995]LogTemp: Repeating last play command: Simulate
+[2019.06.25-13.32.54:854][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-13.32.54:854][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.25-13.32.54:854][995]PIE: New page: SIE session: SideScrollerExampleMap (Jun 25, 2019, 5:32:54 AM)
+[2019.06.25-13.32.54:854][995]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.25-13.32.54:876][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021856s)
+[2019.06.25-13.32.54:877][995]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.25-13.32.54:878][995]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2019.06.25-13.32.54:878][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023842s)
+[2019.06.25-13.32.54:958][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2019.06.25-13.32.54:997][995]LogInit: XAudio2 using 'NS-32E570A11 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.25-13.32.55:012][995]LogInit: FAudioDevice initialized.
+[2019.06.25-13.32.55:029][995]LogHardwareCursor: Error: Failed to load cursor '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Content/None'.  If you included a file extension or the size information '_WidthxHeight' remove them.
+[2019.06.25-13.32.55:063][995]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.25-13.32.55:067][995]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.25-09.32.55
+[2019.06.25-13.32.55:068][995]LogWorld: Bringing up level for play took: 0.003665
+[2019.06.25-13.32.55:083][995]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.514
+[2019.06.25-13.32.55:086][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-13.32.55:152][997]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees Guard1AISense_Hearing
+[2019.06.25-13.32.59:565][347]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-13.32.59:900][381]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-13.33.01:377][530]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-13.33.01:518][544]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-13.33.09:268][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-13.33.09:382][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-13.33.09:383][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-13.33.09:458][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.25-13.33.09:458][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-13.33.09:546][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-13.33.09:557][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.06.25-13.33.09:587][319]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.25-14.34.48:154][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-14.36.30:548][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-14.36.30:598][847]BlueprintLog: New page: Compile Projectile
+[2019.06.25-14.36.31:023][847]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2019.06.25-14.36.32:925][997]LogTemp: Repeating last play command: Simulate
+[2019.06.25-14.36.32:966][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-14.36.32:967][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.25-14.36.32:967][997]PIE: New page: SIE session: SideScrollerExampleMap (Jun 25, 2019, 6:36:32 AM)
+[2019.06.25-14.36.32:967][997]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.06.25-14.36.32:988][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020647s)
+[2019.06.25-14.36.32:988][997]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.06.25-14.36.32:989][997]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2019.06.25-14.36.32:989][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021906s)
+[2019.06.25-14.36.33:122][997]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2019.06.25-14.36.33:161][997]LogInit: XAudio2 using 'NS-32E570A11 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.25-14.36.33:176][997]LogInit: FAudioDevice initialized.
+[2019.06.25-14.36.33:192][997]LogHardwareCursor: Error: Failed to load cursor '../../../../../../Users/Ether/Documents/GitHub/Game-Project/Content/None'.  If you included a file extension or the size information '_WidthxHeight' remove them.
+[2019.06.25-14.36.33:221][997]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.06.25-14.36.33:225][997]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.06.25-10.36.33
+[2019.06.25-14.36.33:226][997]LogWorld: Bringing up level for play took: 0.003635
+[2019.06.25-14.36.33:241][997]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.356
+[2019.06.25-14.36.33:243][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-14.36.33:307][999]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees Guard1AISense_Hearing
+[2019.06.25-14.36.37:242][428]LogBlueprintUserMessages: [Ouch_Pellet2_5] 0.75
+[2019.06.25-14.36.38:853][611]LogBlueprintUserMessages: [Power_Pellet_10] 110
+[2019.06.25-14.36.41:469][911]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.41:505][915]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.41:788][944]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.42:440][ 15]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.42:686][ 42]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.51:007][969]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.51:350][  5]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.51:454][ 16]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.51:639][ 35]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.55:863][496]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.55:872][497]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.55:929][503]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.59:562][896]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.36.59:610][901]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.36.59:638][904]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.05:991][589]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.08:433][851]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.11:532][175]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.11:542][176]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.11:699][192]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.11:739][196]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.12:736][296]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.14:479][471]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.14:637][487]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.15:215][546]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.15:605][586]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.15:741][600]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.18:046][831]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.18:097][836]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.18:118][838]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.18:127][839]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.18:157][842]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.18:167][843]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=164.63 Z=0.00 Location: X=1210.00 Y=-545.75 Z=294.14 Normal: X=0.25 Y=-0.97 Z=0.00 PenetrationDepth:0.212 Actor:Projectile_C_69 Component:Sphere BoneName:None (0 other events since notify)
+[2019.06.25-14.37.18:169][843]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.18:189][845]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.18:241][850]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Sight
+[2019.06.25-14.37.18:625][887]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.23:978][429]LogBlueprintUserMessages: [NPC_AI_SS_C_0] Guard1 sees SideScrollerCharacter_C_0AISense_Hearing
+[2019.06.25-14.37.42:079][215]LogProjectileMovement: Warning: Projectile_C_14 is outside the world bounds!
+[2019.06.25-14.37.43:944][408]LogProjectileMovement: Warning: Projectile_C_1 is outside the world bounds!
+[2019.06.25-14.37.56:938][732]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-202.43 Z=0.00 Location: X=1210.00 Y=-1326.06 Z=500.83 Normal: X=-0.78 Y=0.62 Z=0.02 PenetrationDepth:15.847 Actor:Projectile_C_152 Component:Sphere BoneName:None (0 other events since notify)
+[2019.06.25-14.38.11:158][126]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=103.23 Z=0.00 Location: X=1210.00 Y=-1191.40 Z=498.34 Normal: X=0.05 Y=-0.70 Z=-0.71 PenetrationDepth:1.124 Actor:Projectile_C_193 Component:Sphere BoneName:None (1 other events since notify)
+[2019.06.25-14.38.12:179][224]LogProjectileMovement: Warning: Projectile_C_126 is outside the world bounds!
+[2019.06.25-14.38.14:003][399]LogProjectileMovement: Warning: Projectile_C_116 is outside the world bounds!
+[2019.06.25-14.38.16:263][617]LogProjectileMovement: Warning: Projectile_C_132 is outside the world bounds!
+[2019.06.25-14.38.16:842][673]LogProjectileMovement: Warning: Projectile_C_133 is outside the world bounds!
+[2019.06.25-14.38.17:196][706]LogProjectileMovement: Warning: Projectile_C_134 is outside the world bounds!
+[2019.06.25-14.38.17:246][711]LogCharacterMovement: SideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-76.13 Z=0.00 Location: X=1210.00 Y=-1527.90 Z=560.75 Normal: X=0.32 Y=-0.95 Z=0.00 PenetrationDepth:5.136 Actor:Projectile_C_210 Component:Sphere BoneName:None (4 other events since notify)
+[2019.06.25-14.38.17:646][750]LogProjectileMovement: Warning: Projectile_C_135 is outside the world bounds!
+[2019.06.25-14.38.17:899][775]LogProjectileMovement: Warning: Projectile_C_136 is outside the world bounds!
+[2019.06.25-14.38.18:396][822]LogProjectileMovement: Warning: Projectile_C_137 is outside the world bounds!
+[2019.06.25-14.38.18:514][833]LogProjectileMovement: Warning: Projectile_C_146 is outside the world bounds!
+[2019.06.25-14.38.18:898][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-14.38.18:987][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-14.38.18:987][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-14.38.19:026][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.25-14.38.19:027][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.06.25-14.38.19:112][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-14.38.19:125][880]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.06.25-14.38.19:152][881]LogPlayLevel: Display: Destroying online subsystem :Context_22
